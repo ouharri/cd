@@ -23,7 +23,7 @@ int h;
 	  }
 	  
 	}
-
+//thanks for the gift
 int main()
 {
 
